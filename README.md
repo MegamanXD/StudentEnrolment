@@ -1,5 +1,5 @@
 A Java console app that manages student enrolment.
-## Features included:
+## Features
 
 _ Enroll students into courses: add/update/delete/view
 
@@ -11,7 +11,7 @@ _ Show enrollments of a particular student
 
 _ File IO to persist data
 __________________________________________________________________________________________________________________________
-## Design Patterns included:
+## Design Patterns
 
 1. Singleton
 
@@ -65,5 +65,5 @@ ________________________________________________________________________________
   
 	called in AddEnrolment, DeleteEnrolment (in Actions)
 __________________________________________________________________________________________________________________________
-## This assignment is from:
+## Assignment from
 Software Architecture Design and Implementation course
