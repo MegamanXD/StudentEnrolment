@@ -13,13 +13,13 @@ _ File IO to persist data
 __________________________________________________________________________________________________________________________
 ## Design Patterns
 
-1. Singleton
+### 1. Singleton
 
 	StudentEnrolmentList (in CoreDatabase)
   
 	AddEnrolment, DeleteEnrolment, GetEnrolmentBySemester, GetEnrolmentByStudent, UndoDelete, UpdateEnrolment (in Actions)
 
-2. Builder
+### 2. Builder
 
 	Course, Student (in CoreDatabase)
 
