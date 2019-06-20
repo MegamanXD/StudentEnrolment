@@ -1,16 +1,15 @@
 A Java console app that manages student enrolment.
 ## Features
+ 
+_ Enroll students into courses: add/update/delete/view
 
-### 
- Enroll students into courses: add/update/delete/view
+_ Add/update/delete/view a particular enrollment
 
- Add/update/delete/view a particular enrollment
+_ Show all enrollments for a particular semester
 
- Show all enrollments for a particular semester
+_ Show enrollments of a particular student
 
- Show enrollments of a particular student
-
- File IO to persist data
+_ File IO to persist data
 __________________________________________________________________________________________________________________________
 ## Design Patterns
 
